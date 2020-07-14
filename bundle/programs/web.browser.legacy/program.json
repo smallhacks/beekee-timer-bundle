@@ -1,0 +1,461 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "d344fba324f466e43c6362f0616e884389db9b70.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/d344fba324f466e43c6362f0616e884389db9b70.js?meteor_js_resource=true",
+      "size": 842857,
+      "hash": "d344fba324f466e43c6362f0616e884389db9b70",
+      "sri": "17j5KK6lWiqzmaj8Z5xyZNaSbDnp3XzgHRNBv6uKbxb1h+o80heNpvbg4rqgTzWXPvthmDakLTJaXCiLM0c7kQ=="
+    },
+    {
+      "path": "d344fba324f466e43c6362f0616e884389db9b70.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/d344fba324f466e43c6362f0616e884389db9b70.stats.json?meteor_js_resource=true",
+      "size": 25942,
+      "hash": "81bdba9e33fd73d0867badd964d0a935b4bd2dec",
+      "sri": "lL6iNk8rCtAZQODQFdVBPS0EZc0sIjuJhtiBHJck9DllEBDZCoXRm+0ewJDNJLGA2CoOxX63uwp1VKYAj8H0AQ=="
+    },
+    {
+      "path": "a2632579de277357599a6acb85ae068dd3429e18.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/a2632579de277357599a6acb85ae068dd3429e18.css?meteor_css_resource=true",
+      "size": 146866,
+      "hash": "a2632579de277357599a6acb85ae068dd3429e18",
+      "sri": "fa+PDlG/xOuwbDzOW2quINtaWMzIgSXD1Q9F6hb+A2b0V7kUTD4o8CFNLmjsmUT/w+bi990KLhzJNZ3XdkhRHw=="
+    },
+    {
+      "path": "app/fonts/Montserrat-Light.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Montserrat-Light.otf",
+      "size": 44792,
+      "hash": "c2a416e9906b4612e5d5fa3554db52218a47641e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Montserrat-Regular.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Montserrat-Regular.otf",
+      "size": 45360,
+      "hash": "c7dfd76c5bfd20b1c73c07e07db4a0bbd4ec2902",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Montserrat-UltraLight.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Montserrat-UltraLight.otf",
+      "size": 68300,
+      "hash": "4daeb5181c3b4b6b7338e2577ff52735ac141f23",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Light.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Light.ttf",
+      "size": 182376,
+      "hash": "470fea69cc317ffc765af183dbc62c5edd8f38a4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Medium.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Medium.eot",
+      "size": 179788,
+      "hash": "44edd6cfd01bc6d13568e6451f16af172c85c362",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Medium.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Medium.svg",
+      "size": 505724,
+      "hash": "d79e3fe0227aad3f586bea268570aaf95917b0dd",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Medium.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Medium.ttf",
+      "size": 180184,
+      "hash": "65f2ffc4ac79a3bfbdb33678ddc4912fac894f97",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Medium.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Medium.woff",
+      "size": 71312,
+      "hash": "c241f5c34eada5793923abe52dd957a599be78ed",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Medium.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Medium.woff2",
+      "size": 51764,
+      "hash": "947c185fe2163ca9370d0502bebfd2a3acc190f8",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Regular.eot",
+      "size": 178836,
+      "hash": "a8175e91baba6e371cf9ce9e11cd6dc70f957586",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Regular.svg",
+      "size": 490395,
+      "hash": "c53b748a30362a314cd14daed6ec9566d5e354a8",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Regular.ttf",
+      "size": 180084,
+      "hash": "745ece1230d9e11c50c006506ee2c23ff19573eb",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Regular.woff",
+      "size": 71640,
+      "hash": "11a4e01c895aa15a855f66aef12c64d0f8fc3d8c",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Regular.woff2",
+      "size": 51572,
+      "hash": "acd4327f925fcd32fa170c437e6f1bedab6b29c1",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/roboto-light.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/roboto-light.ttf",
+      "size": 19908,
+      "hash": "a5e28a6ed7bd51f93a73cd8c280275e7fbe56f5a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/roboto-light.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/roboto-light.woff",
+      "size": 13360,
+      "hash": "d3f9f006552cb06fcb86b64020d5d3c0c5e0e504",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/roboto-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/roboto-regular.ttf",
+      "size": 19876,
+      "hash": "2f5a53119c5f61028fec9890a04dc63fd4fd4bbd",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/roboto-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/roboto-regular.woff",
+      "size": 13308,
+      "hash": "9484e89cb7ec677f29fa86743285bf98eb97c313",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo_black.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo_black.svg",
+      "size": 1964,
+      "hash": "0283c233d4fb995fbcddf6a8ea778508cd11495c",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo_timer_white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo_timer_white.svg",
+      "size": 3340,
+      "hash": "a7acd7c2036fa02c21bc7a3a907e6ff24c0979a3",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo_white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo_white.svg",
+      "size": 1987,
+      "hash": "2042e0152e2f3cb66eeabd05a16dfcbdf3dd03b6",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/css/fontawesome-all.min.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/css/fontawesome-all.min.css",
+      "size": 41065,
+      "hash": "5f367ca4fe8b1eab97d1e8a322f5d9cf9367ea16",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-brands-400.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-brands-400.eot",
+      "size": 111620,
+      "hash": "1d3308183de062be7d61fc1e52cf4c7a2b3c8338",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-brands-400.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-brands-400.svg",
+      "size": 599834,
+      "hash": "02c2d30e386b855cfdac1f23047b0085b613ecb4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-brands-400.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-brands-400.ttf",
+      "size": 111384,
+      "hash": "ac224217845451e37c8579adaae01874c9841735",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-brands-400.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-brands-400.woff",
+      "size": 71560,
+      "hash": "f3b75c8589039e843e73e5f53f06cf58d8a46856",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-brands-400.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-brands-400.woff2",
+      "size": 61336,
+      "hash": "e91640d1d2449053461a7fc655c2d60d6c8e6500",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-regular-400.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-regular-400.eot",
+      "size": 31272,
+      "hash": "a2f99ab319cd5e6cad5a06b9d7436e50ce54f4ea",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-regular-400.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-regular-400.svg",
+      "size": 104706,
+      "hash": "7ef1c40c8036003e245ca4aa7c7a5442321287d5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-regular-400.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-regular-400.ttf",
+      "size": 31044,
+      "hash": "1c9e6d09ba9431ac92d0fc4197f9421827167e8a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-regular-400.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-regular-400.woff",
+      "size": 14724,
+      "hash": "3829c561bf579b9863f2d6ef80fd4bcc94c94fc4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-regular-400.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-regular-400.woff2",
+      "size": 12188,
+      "hash": "44ebfde23a4f1cb7d099966209a7a03a304c520c",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-solid-900.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-solid-900.eot",
+      "size": 133140,
+      "hash": "916bb2bf5254ba014d1d4e9e1f510a244d81d9f6",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-solid-900.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-solid-900.svg",
+      "size": 488395,
+      "hash": "4dbc5e203cbc1409e1a8a85ad13cd8bee3ae0701",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-solid-900.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-solid-900.ttf",
+      "size": 132920,
+      "hash": "580a6a8f4415898b2440f534ce0824bdd21c85a5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-solid-900.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-solid-900.woff",
+      "size": 63836,
+      "hash": "b8a11432a8173833c0126f1448c9a74c79ec2f43",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-solid-900.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-solid-900.woff2",
+      "size": 50372,
+      "hash": "5a2ee0ff4eaea912037e813fe8c0f59d0c26e9ce",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/ionicons/css/ionicons.min.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons/css/ionicons.min.css",
+      "size": 51284,
+      "hash": "b1509da06bc85cac7262151f72987e50e502a2f4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/ionicons/fonts/ionicons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons/fonts/ionicons.eot",
+      "size": 120724,
+      "hash": "0babf1a85bbc13b19e821cc36ca71fd8859cd525",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/ionicons/fonts/ionicons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons/fonts/ionicons.svg",
+      "size": 333834,
+      "hash": "25e7cad259d061d787c3a048ebf1cb8ae53b2be9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/ionicons/fonts/ionicons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons/fonts/ionicons.ttf",
+      "size": 188508,
+      "hash": "3b035e3597d89093dcc850b3671d5a532b24dd9b",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/ionicons/fonts/ionicons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons/fonts/ionicons.woff",
+      "size": 67904,
+      "hash": "ce26769063c47599eb1906ef3d7a988cf8155026",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "62963f36cbf85905abdef08dc92d1257463dab86"
+    }
+  ]
+}
